@@ -1,5 +1,5 @@
 # My own neural network
-> My own implementation of a dense neural network
+> My own implementation of a dense neural network successfully trained on MNIST Dataset. We implemented and compared different features for our neural network.
 
 ## Installation & Usage
 
