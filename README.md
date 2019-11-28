@@ -1,8 +1,6 @@
 # My own neural network
 > My own implementation of a dense neural network
 
-<img src="mnist_illustration.png" width="30%">
-
 ## Installation & Usage
 
 OS X & Linux:
@@ -23,6 +21,10 @@ python3 main.py
 * Batch normalization: No
 
 ## Dataset used
+
+* The MNIST DATABASE of handwritten digits
+
+<img src="mnist_illustration.png" width="30%">
 
 ## Results
 
