@@ -1,7 +1,7 @@
 # My own neural network
 > My own implementation of a dense neural network
 
-<img src="mnist_illustration.png" width="40%">
+<img src="mnist_illustration.png" width="30%">
 
 ## Installation & Usage
 
