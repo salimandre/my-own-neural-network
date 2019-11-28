@@ -1,7 +1,7 @@
 # My own neural network
 > My own implementation of a dense neural network
 
-![.5](mnist_illustration.png)
+![](mnist_illustration.png =100x100)
 
 ## Installation & Usage
 
