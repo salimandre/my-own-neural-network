@@ -1,27 +1,28 @@
 # My own neural network
-> My own implementation of a dense neural network. Implemented features: weights initializer (RandomNormal, Xavier, Glorot&amp;Bengio, He&amp;Zhang&amp;Ren&amp;Sun), optimizer (SGD, SGD with momentum, Nesterov AGD, RMSProp, ADAGrad, ADAM) .
+> My own implementation of a dense neural network.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-One to two paragraph statement about your product and what it does.
+Implemented features: weights initializer (RandomNormal, Xavier, Glorot&amp;Bengio, He&amp;Zhang&amp;Ren&amp;Sun), optimizer (SGD, SGD with momentum, Nesterov AGD, RMSProp, ADAGrad, ADAM) .
 
 ![](header.png)
 
-## Installation
+## Installation & Usage
 
 OS X & Linux:
 
 ```sh
-npm install my-crazy-module --save
+pip3 install -r requirements.txt
+python3 main.py
 ```
 
-Windows:
+## Implemented features
 
-```sh
-edit autoexec.bat
-```
+* Layer: Dense
+* Activation function: ReLu
+* Weights initializer: Random Normal, Xavier, Glorot&amp;Bengio, He&amp;Zhang&amp;Ren&amp;Sun
+* Optimizer: SGD, SGD with momentum, Nesterov AGD, RMSProp, AdaGrad, Adam
+* Regularization: L2
+* Drop out: No
+* Batch normalization: No
 
 ## Usage example
 
