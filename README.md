@@ -31,6 +31,8 @@ python3 main.py
 
 ## Results
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+In the following we compare results obtained with different **weights initialization methods** and different parameters for **L2 regularization**.
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+# Weights initialization
+
+# Regularization
