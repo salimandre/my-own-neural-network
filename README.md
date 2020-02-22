@@ -56,7 +56,7 @@ These methods indeed help to preserve the variance of the flow through the netwo
 ### L2 Regularization
 
 We compared the following L2 regularization parameters:
-* \\lambda = 0
+* "\\lambda" = 0
 *
 
 <p align="center"> 
