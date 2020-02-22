@@ -33,6 +33,6 @@ python3 main.py
 
 In the following we compare results obtained with different **weights initialization methods** and different parameters for **L2 regularization**.
 
-# Weights initialization
+### Weights initialization
 
-# Regularization
+### Regularization
