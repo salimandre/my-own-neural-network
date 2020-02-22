@@ -36,11 +36,11 @@ In the following we compare results obtained with different **weights initializa
 ### Weights Initialization
 
 <p align="center"> 
-<img src="img/init_quartet.png" width="70%">
+<img src="img/init_quartet_.png" width="70%">
 </p>
 
 ### L2 Regularization
 
 <p align="center"> 
-<img src="img/reg_quartet.png" width="70%">
+<img src="img/reg_quartet_.png" width="70%">
 </p>
