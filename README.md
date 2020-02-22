@@ -35,4 +35,12 @@ In the following we compare results obtained with different **weights initializa
 
 ### Weights Initialization
 
+<p align="center"> 
+<img src="img/pd_0_clean.png" width="70%">
+</p>
+
 ### L2 Regularization
+
+<p align="center"> 
+<img src="img/pd_0_clean.png" width="70%">
+</p>
