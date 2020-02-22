@@ -31,15 +31,25 @@ python3 main.py
 
 ## Results
 
-In the following we compare results obtained with different **weights initialization methods** and different parameters for **L2 regularization**.
+In the following we compare results obtained with different **weights initialization methods** and different parameters for **L2 regularization**. We used SGD as optimization method, on 9 epochs with batch size of 32.
 
 ### Weights Initialization
+
+We compared the following weights initialization methods:
+* random normal distribution (default)
+* Xavier initialization
+* Glorot&Bengio initialization
+* He&Zhang&Ren&Sun initialization
 
 <p align="center"> 
 <img src="img/init_quartet_.png" width="70%">
 </p>
 
 ### L2 Regularization
+
+We compared the following L2 regularization parameters:
+* $lambda$ = 0
+*
 
 <p align="center"> 
 <img src="img/reg_quartet_.png" width="70%">
