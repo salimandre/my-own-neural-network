@@ -27,7 +27,7 @@ python3 main.py
 
 * The MNIST DATABASE of handwritten digits
 
-<img src="mnist_illustration.png" width="30%">
+<img src="img/mnist_illustration.png" width="30%">
 
 ## Results
 
