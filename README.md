@@ -35,4 +35,4 @@ In the following we compare results obtained with different **weights initializa
 
 ### Weights initialization
 
-### Regularization
+### L2 Regularization
